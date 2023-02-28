@@ -1,0 +1,8 @@
+.terraform.lock.hcl
+mykey
+mykey.pub
+terraform.tfstate.backup
+terraform.tfstate
+curvctest.pem
+var.tf
+.terraform
